@@ -95,3 +95,11 @@ sv:
         SEARCH_RESULTS: "Sökresultat"
         SEARCH_RESULTS_SUMMARY_SINGULAR: "Sökning: <strong>%s</strong> hittade ett resultat"
         SEARCH_RESULTS_SUMMARY_PLURAL: "Sökning: <strong>%s</strong> hittade %s resultat"
+
+ar:
+    PLUGIN_SIMPLESEARCH:
+        SEARCH_PLACEHOLDER: "بحث..."
+        SEARCH_RESULTS: "نتائج البحث"
+        SEARCH_RESULTS_SUMMARY_SINGULAR: "Query: <strong>%s</strong> وجدت نتيجة واحدة"
+        SEARCH_RESULTS_SUMMARY_PLURAL: "Query: <strong>%s</strong> تم العثور على %s من النتائج"
+        SEARCH_FIELD_MINIMUM_CHARACTERS: "يرجى إضافة %s من الأحرف على الأقل"
